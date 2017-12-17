@@ -23,5 +23,16 @@
 		<version>2.5.6</version>
 	</dependency> 
   </dependencies>
-
+<distributionManagement>
+    <repository>
+      <id>devops-release</id>
+      <name>devops-releases</name>
+      <url>http://192.168.99.100:8081/nexus/content/repositories/devops-releases/</url>
+    </repository>
+    <snapshotRepository>
+      <id>devops-snaoshots</id>
+      <name>devops-snapshots</name>
+      <url>http://192.168.99.100:8081/nexus/content/repositories/devops-snapshot/</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
