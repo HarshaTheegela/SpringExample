@@ -31,7 +31,7 @@
     </repository>
     <snapshotRepository>
       <id>devops-snapshot</id>
-      <name>devops-snapshots</name>
+      <name>devops-snapshot</name>
       <url>http://192.168.99.100:8081/nexus/content/repositories/devops-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
