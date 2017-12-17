@@ -30,7 +30,7 @@
       <url>http://192.168.99.100:8081/nexus/content/repositories/devops-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>devops-snaoshots</id>
+      <id>devops-snapshot</id>
       <name>devops-snapshots</name>
       <url>http://192.168.99.100:8081/nexus/content/repositories/devops-snapshot/</url>
     </snapshotRepository>
