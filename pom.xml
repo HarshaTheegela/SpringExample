@@ -23,7 +23,7 @@
 		<version>2.5.6</version>
 	</dependency> 
   </dependencies>
- <distributionManagement>
+ <!--distributionManagement>
     <repository>
       <id>devops-release</id>
       <name>devops-releases</name>
@@ -34,5 +34,5 @@
       <name>devops-snapshots</name>
       <url>http://192.168.99.100:8081/nexus/content/repositories/devops-snapshot/</url>
     </snapshotRepository>
-  </distributionManagement>
+  </distributionManagement-->
 </project>
